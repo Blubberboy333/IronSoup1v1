@@ -2,12 +2,6 @@
 
 namespace EnchantedRealms;
 
-use
-use
-use
-use
-use
-use
-use
-use
-use
+use pocketmine\utils\TextFormat as C;
+
+use pocketmine\
