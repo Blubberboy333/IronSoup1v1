@@ -1,1 +1,14 @@
-
+name: §fIron§dSoup1v1
+main: EnchantedRealms\Main
+version: 1.0.0
+api: 2.0.0
+author: EnchantedRealms
+commands:
+ ironsoup:
+  permission: ironsoup.cmd
+  description: IronSoup Main Command!
+  usage: /ironsoup <Sub Command>
+permissions: 
+ ironsoup.cmd:
+  default: OP
+  description: IronSoup Main Command!
